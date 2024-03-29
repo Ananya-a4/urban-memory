@@ -1,0 +1,13 @@
+package com.company;
+
+public class literals  {
+    public static void main(String[] args){
+       byte age = 34;
+       char ch = 'A';
+       float f1 = 2.3f;
+       double d1 = 5.60000d;
+       boolean a = true;
+        System.out.println(a);
+        System.out.println(ch);
+        
+    }}
